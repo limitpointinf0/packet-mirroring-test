@@ -20,7 +20,7 @@ terraform apply
         - set subnet for frontend
         - create
 
-- Open a 2 terminal windows on your local machine:
+- Open 2 terminal windows on your local machine:
 
 terminal 1
 ```bash
